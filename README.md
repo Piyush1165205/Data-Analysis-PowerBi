@@ -1,2 +1,5 @@
 # Data-Analysis-PowerBi
 This repository contains Power BI dashboards and reports created to analyze and visualize real-world datasets. It focuses on data cleaning, data modeling, KPIs, and interactive visualizations to deliver meaningful business insights and support data-driven decision-making.
+
+📦 Amazon Sales Analysis – Power BI Project
+This project focuses on analyzing Amazon sales data using Power BI to understand overall business performance. The dashboard provides insights into sales trends, revenue distribution, product performance, and customer behavior. Key metrics such as total sales, profit, order volume, and category-wise performance are visualized using interactive charts and KPIs. Filters and slicers allow users to analyze data by time period, product category, and region. The project helps identify top-selling products, high-performing categories, and patterns that support data-driven decision-making. This project demonstrates practical skills in data cleaning, data modeling, and visualization using Power BI.
